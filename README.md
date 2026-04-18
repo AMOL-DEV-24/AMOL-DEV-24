@@ -10,7 +10,6 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ANIMATED DIVIDER LINE                      -->
-<!--              Decorative animated line between sections         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
@@ -18,7 +17,6 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       ABOUT ME SECTION                         -->
-<!--     Animated GIFs on left and right for visual decoration      -->
 <!--     Left: Coding animation | Right: Developer illustration     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img align="left" height="355" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif" />
@@ -35,7 +33,6 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     TECH SKILLS SECTION                        -->
-<!--   Displays all technology logos using DevIcons CDN             -->
 <!--   Order: Frontend → Styling → Frameworks → Backend →           -->
 <!--          Database → Languages → Tools → IDEs                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -133,8 +130,8 @@
 <!--   Right → Current contribution streak counter                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=2404Amol&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=true" height="150" alt="stats graph" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=2404Amol&locale=en&mode=daily&theme=outrun&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=AMOL-DEV-24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=true" height="150" alt="stats graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AMOL-DEV-24&locale=en&mode=daily&theme=outrun&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
 </div>
 
 <br clear="both">
@@ -151,13 +148,13 @@
 <!--      Shows most used programming languages across all repos    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=2404Amol&locale=en&layout=compact&langs_count=8&theme=outrun&hide_border=true" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AMOL-DEV-24&locale=en&layout=compact&langs_count=8&theme=outrun&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 <br clear="both">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  ANIMATED DIVIDER LINE                         -->
+<!--                     ANIMATED DIVIDER LINE                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
@@ -171,14 +168,14 @@
 
 <!-- Row 1 — Language Distribution Cards -->
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2404Amol&theme=radical" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2404Amol&theme=radical" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AMOL-DEV-24&theme=radical" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AMOL-DEV-24&theme=radical" height="150" />
 </div>
 
 <!-- Row 2 — Stats & Productive Time Cards -->
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2404Amol&theme=radical" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2404Amol&theme=radical&utcOffset=5.5" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AMOL-DEV-24&theme=radical" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AMOL-DEV-24&theme=radical&utcOffset=5.5" height="150" />
 </div>
 
 <br clear="both">
@@ -202,7 +199,6 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    SOCIAL MEDIA SECTION                        -->
-<!--        Clickable badge links to all social platforms           -->
 <!--        Facebook | Instagram | LinkedIn | Gmail | Codepen       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
@@ -222,10 +218,10 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
-  <!-- Gmail Badge (add mailto link if needed) -->
+  <!-- Gmail Badge -->
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 
-  <!-- Codepen Badge (add profile link if needed) -->
+  <!-- Codepen Badge -->
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo" />
 
 </div>
@@ -260,7 +256,6 @@
 <!--                   SNAKE ANIMATION SECTION                      -->
 <!--   Animated snake eating GitHub contribution grid squares       -->
 <!--   Dark theme version — auto switches based on GitHub theme     -->
-<!--   Source: Platane/snk output branch (pre-generated SVG)       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -281,7 +276,7 @@
 <!--   Theme: react-dark | Updates automatically with commits       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2404Amol&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AMOL-DEV-24&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 <br clear="both">
@@ -295,11 +290,11 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   VISITOR COUNTER SECTION                      -->
-<!--   Tracks total number of profile page views                    -->
+<!--   Tracks total profile page views                              -->
 <!--   Powered by komarev.com — reliable & always working          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=2404Amol&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=AMOL-DEV-24&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br clear="both">
@@ -340,8 +335,8 @@
 <!---
 ═══════════════════════════════════════════════════════════════════
   REPOSITORY NOTE:
-  2404AMOL/2404AMOL is a ✨ special ✨ repository because its
-  README.md appears on your GitHub profile page.
+  AMOL-DEV-24/AMOL-DEV-24 is a ✨ special ✨ repository because
+  its README.md appears on your GitHub profile page.
   Click Preview to see live changes before committing.
 ═══════════════════════════════════════════════════════════════════
 --->
