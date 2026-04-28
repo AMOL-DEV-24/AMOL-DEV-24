@@ -205,7 +205,7 @@
 
   <!-- Facebook Profile Link -->
   <a href="https://www.facebook.com/people/Amol-Pawar/pfbid0qvP4QRR65irXCDVeZwYMJakAPcpimmx8k8J7bjd3Q4kCSith7ctZ8n5pwYCxHk48l/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35"            alt="facebook logo" />
   </a>
 
   <!-- Instagram Profile Link -->
@@ -215,14 +215,18 @@
 
   <!-- LinkedIn Profile Link -->
   <a href="https://www.linkedin.com/in/amolpawar-dev/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"          alt="linkedin logo" />
   </a>
 
-  <!-- Gmail Badge -->
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+ <!-- Gmail -->
+<a href="mailto:amolpawar.dev@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
 
-  <!-- Codepen Badge -->
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo" />
+  <!-- Portfolio Website -->
+<a href="https://amolpawar.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35"                alt="portfolio logo" />
+</a>
 
 </div>
 
@@ -232,7 +236,7 @@
 <!--                     ANIMATED DIVIDER LINE                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
