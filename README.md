@@ -130,10 +130,21 @@
 <!--   Right → Current contribution streak counter                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AMOL-DEV-24&show_icons=true&theme=outrun" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AMOL-DEV-24&locale=en&mode=daily&theme=outrun&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AMOL-DEV-24&theme=tokyonight" />
+  <br><br>
+
+  <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED DIVIDER LINE                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+<img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AMOL-DEV-24&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com?user=AMOL-DEV-24&theme=outrun" height="150" />
+
+</div>
 <br clear="both">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
