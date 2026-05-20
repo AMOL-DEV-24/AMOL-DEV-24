@@ -155,16 +155,6 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TOP LANGUAGES SECTION                       -->
-<!--      Shows most used programming languages across all repos    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AMOL-DEV-24&locale=en&layout=compact&langs_count=8&theme=outrun&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<br clear="both">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ANIMATED DIVIDER LINE                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
